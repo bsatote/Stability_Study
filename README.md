@@ -49,7 +49,7 @@ repo/
 # Step-5: launch and run the notebook top-to-bottom
 jupyter notebook KTP_stability_analysis.ipynb
 
-# If using VS-Code:
+# If you are using VS-Code:
 # Requirements: 1) Python 3.10 or later
 #               2) Visual Studio Code with the Python and Jupyter extensions installed 
 
@@ -58,11 +58,11 @@ jupyter notebook KTP_stability_analysis.ipynb
 # Step-5: open the project in VS Code
 
 # Step-6: select the Python interpreter
-  # press Ctrl+Shift+P (Windows/Linux) or Cmd+Shift+P (macOS)
-  # search for Python: Select Interpreter
-  # choose the interpreter from the .venv environment
+  press Ctrl+Shift+P (Windows/Linux) or Cmd+Shift+P (macOS)
+  search for Python: Select Interpreter
+  choose the interpreter from the .venv environment
 
 # Step-7: run the notebook
-  # open `KTP_stability_analysis.ipynb`
-  # click "Run All" to execute the notebook from top to bottom
+  open `KTP_stability_analysis.ipynb`
+  click "Run All" to execute the notebook from top to bottom
 ```
