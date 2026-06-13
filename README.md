@@ -50,7 +50,7 @@ repo/
 jupyter notebook KTP_stability_analysis.ipynb
 ```
 ------------------------------------------------------
-```
+```bash
 # If using VS-Code:
 # Requirements: 1) Python 3.10 or later
 #               2) Visual Studio Code with the Python and Jupyter extensions installed 
@@ -67,3 +67,4 @@ jupyter notebook KTP_stability_analysis.ipynb
 # Step-7: run the notebook
   # open `KTP_stability_analysis.ipynb`
   # click "Run All" to execute the notebook from top to bottom
+```
