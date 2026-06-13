@@ -16,7 +16,7 @@ The complete analysis and reasoning are in the single self-contained notebook **
 
 ## How to run
 
-# Requirements: 1) Python 3.10 or later
+### Requirements: 1) Python 3.10 or later
 
 ```bash
 # Step-1: clone and enter the repo
