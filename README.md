@@ -63,6 +63,6 @@ jupyter notebook stability_analysis.ipynb
   choose the interpreter from the .venv environment
 
 # Step-7: run the notebook
-  open `KTP_stability_analysis.ipynb`
+  open `stability_analysis.ipynb`
   click "Run All" to execute the notebook from top to bottom
 ```
